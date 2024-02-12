@@ -4,7 +4,7 @@
 # setup
 
 ## Bootstick
-zet de proxmox .iso image op een usb stick met balena etcher
+download de proxmox .iso image op een usb stick met balena etcher van https://www.proxmox.com/en/downloads
 
 ## install proxmox
 https://www.youtube.com/watch?v=-OlzEmI0BP8
