@@ -40,3 +40,4 @@ https://www.youtube.com/watch?v=1doM_9pijBM&t=97s & https://tteck.github.io/Prox
 
 ## install guacamole
 https://www.youtube.com/watch?v=cugExjVmQT4
+  * guacamole url; https://www.youtube.com/watch?v=xHnJKLppchs
