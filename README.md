@@ -12,6 +12,19 @@ https://www.youtube.com/watch?v=-OlzEmI0BP8
 Volg de setup wizard van proxmox en zorg er voor dat proxmox goed werkt en goed opstart.
 
 updata community repo
+
+```c
+// go to proxmox shell
+cd /etc/apt/sources.list.d/
+nano ceph.list
+//comment out the exisitng lane
+nano pve-enterprise.list
+// comment out the exisitng lane and add; deb http://download.proxmox.com/debian/pve bookworm pve-no-subscription
+apt update
+apt upgrade
+reboot
+```
+
 * go to the rpoxmox shell
 * cd /etc/apt/sources.list.d/
 * nano ceph.list
