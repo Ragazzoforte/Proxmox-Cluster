@@ -7,9 +7,9 @@
 download de proxmox .iso image op een usb stick met balena etcher van https://www.proxmox.com/en/downloads
 
 ## install proxmox
-https://www.youtube.com/watch?v=-OlzEmI0BP8
 
 * Volg de setup wizard van proxmox en zorg er voor dat proxmox goed werkt en goed opstart.
+  https://www.youtube.com/watch?v=-OlzEmI0BP8
 
 * update community repo
 ```c
@@ -23,3 +23,5 @@ apt update
 apt upgrade
 reboot
 ```
+* make a proxmox cluster
+  https://www.youtube.com/watch?v=Mz-nXlqovLI&t=69s
