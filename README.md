@@ -25,3 +25,4 @@ reboot
 ```
 * make a proxmox cluster
   https://www.youtube.com/watch?v=Mz-nXlqovLI&t=69s
+  * make drives ready for ceph osd
