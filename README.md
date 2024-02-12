@@ -37,3 +37,6 @@ download de proxmox .iso image op een usb stick met balena etcher van https://ww
     ```
 ## install nginx proxy manager
 https://www.youtube.com/watch?v=1doM_9pijBM&t=97s & https://tteck.github.io/Proxmox/ & https://www.youtube.com/watch?v=GarMdDTAZJo&t=694s
+
+## install guacamole
+https://www.youtube.com/watch?v=cugExjVmQT4
