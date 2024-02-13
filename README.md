@@ -43,6 +43,9 @@ proxmox scripts; https://tteck.github.io/Proxmox/
 nginx ssl with cloudflare tutorial; https://www.youtube.com/watch?v=GarMdDTAZJo&t=694s
 
 ## install guacamole
-https://www.youtube.com/watch?v=cugExjVmQT4
+youtube tutorial; https://www.youtube.com/watch?v=cugExjVmQT4
 
 guacamole url; https://www.youtube.com/watch?v=xHnJKLppchs
+
+## install Nextcloud
+youtube tutorial; https://www.youtube.com/watch?v=00FUdmOLh0A&t=210s
