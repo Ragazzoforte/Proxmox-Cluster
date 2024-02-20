@@ -51,3 +51,6 @@ guacamole url; https://www.youtube.com/watch?v=xHnJKLppchs
 youtube tutorial; https://www.youtube.com/watch?v=00FUdmOLh0A&t=210s
 
 onlyoffice youtube tutorial; https://www.youtube.com/watch?v=g8xXfOifyEE
+
+## install Home Assistant
+
