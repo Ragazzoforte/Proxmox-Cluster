@@ -35,6 +35,10 @@ download de proxmox .iso image op een usb stick met balena etcher van https://ww
     w
     lsblk
     ```
+
+Resize lxc disk size. Type in the shell of the node : pct resize "container number (101)" rootfs "new disksize(20G)"
+
+
 ## install nginx proxy manager
 youtube tutorial; https://www.youtube.com/watch?v=1doM_9pijBM&t=97s 
 
