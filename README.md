@@ -58,3 +58,8 @@ onlyoffice youtube tutorial; https://www.youtube.com/watch?v=g8xXfOifyEE
 
 ## install Home Assistant
 
+## install Wordpress
+
+bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/turnkey/turnkey.sh)"
+
+
