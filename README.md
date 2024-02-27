@@ -57,9 +57,11 @@ youtube tutorial; https://www.youtube.com/watch?v=00FUdmOLh0A&t=210s
 onlyoffice youtube tutorial; https://www.youtube.com/watch?v=g8xXfOifyEE
 
 ## install Home Assistant
+proxmox scripts; https://tteck.github.io/Proxmox/ 
+bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/vm/haos-vm.sh)"
 
 ## install Wordpress
-
+proxmox scripts; https://tteck.github.io/Proxmox/ 
 bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/turnkey/turnkey.sh)"
 
 
