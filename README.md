@@ -79,6 +79,15 @@ install docker engine: https://docs.docker.com/engine/install/ubuntu/
 ### server1
 ip: 192.168.178.71
 
+sudo docker swarm init --advertise-addr 192.168.178.71
+Swarm initialized: current node (oini5aeh4hro0702g7xw0p7lr) is now a manager.
+
+To add a worker to this swarm, run the following command:
+
+    sudo docker swarm join --token SWMTKN-1-06h773rj7dy26lq7pxuk8ysl3dejt4g98iqi7q7b36qd2zvzf0-9evuo5fse6xmzo3berigv4ctt 192.168.178.71:2377
+
+To add a manager to this swarm, run 'docker swarm join-token manager' and follow the instructions.
+
 ### server3
 ip: 192.168.178.81
 
