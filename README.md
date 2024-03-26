@@ -72,6 +72,8 @@ bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/turnkey/turnkey
 ## setup
 make a bootable usb stcik for ubunutu and install it on each node
 
+install docker engine: https://docs.docker.com/engine/install/ubuntu/
+
 ## nodes
 
 ### server1
