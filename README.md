@@ -67,3 +67,18 @@ proxmox scripts; https://tteck.github.io/Proxmox/
 bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/turnkey/turnkey.sh)"
 
 
+# Docker swarm
+
+## setup
+make a bootable usb stcik for ubunutu and install it on each node
+
+## nodes
+
+### server1
+ip: 192.168.178.71
+
+### server3
+ip: 192.168.178.81
+
+### server4
+ip: 192.168.178.70
